@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Efficient Spatial-Temporal Information Fusion for LiDAR-Based 3D Moving Object Segmentation
 
 ### [Paper](https://arxiv.org/abs/2207.02201) | [Project page](https://npucvr.github.io/MotionSeg3D) | [Overview Video](https://youtu.be/kao26zX1Hdo) | [Supp. Video](https://youtu.be/carIdfwLX_s) <br>
@@ -173,3 +174,6 @@ Some of the code in this repo is borrowed from [SoftPool](https://github.com/ale
 Copyright 2022, Jiadai Sun, Xieyuanli Chen, Xianjing Zhang, HAOMO.AI Technology Co., Ltd., China.
 
 This project is free software made available under the GPL v3.0 License. For details see the LICENSE file.
+=======
+# Teach TieDan do something through ROS2 etc.
+>>>>>>> c58d9746dbe88100391b960ad0901ac6ee299cb7
